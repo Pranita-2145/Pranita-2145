@@ -8,7 +8,6 @@ I’m currently working on **RescQtech - Disaster Management App**<br>
 🌱 I’m currently learning **MERN Stack**, **DSA**<br>  
 👯 I’m looking to collaborate on **Open-source Contributions** related to Web and App Development<br>  
 👨‍💻 All of my projects are available at: [github.com/Pranita-2145](https://github.com/Pranita-2145)<br>  
-📄 Know about my experiences: *(Please upload your resume online and update the link)*<br>  
 📫 How to reach me: [pranita.22311344@viit.ac.in](mailto:pranita.22311344@viit.ac.in)<br>  
 ⚡ Fun fact: I find context switching easier in OS than in real life.
 
